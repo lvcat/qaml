@@ -16,7 +16,7 @@ Controversially, the goal for unsupervised learning is to learn more about the d
 
 Regression is about predicting a label and classification is about predicting a quantity. In other word, the result of regression are continous quantities while the result of classification are discrete class labels.
 
-For example, if 
+For example, if u want to predict the price of apple its a quantity，so its regression. but if u wnat to predict the kind of vehicles,like its a car or track.its classification
 
 ###  What are the steps for a supervised learning?
 
